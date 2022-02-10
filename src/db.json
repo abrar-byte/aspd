@@ -1,0 +1,2162 @@
+{
+  "questions": [
+    { "type": "category", "category": "$system$/top/try out SD" },
+    {
+      "type": "multichoice",
+      "name": "(1) Ani anak yang disiplin terhadap protokol kesehatan covid 19. (2) Kemana ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(1) Ani anak yang disiplin terhadap protokol kesehatan covid 19. (2) Kemana pun pergi, ia selalu memakai masker. (3) Mencuci tangan memakai sabun dengan air mengalir sesering mungkin ia lakukan. (4) Bahkan ia selalu menjaga jarak dan menghindari kerumunan<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kalimat utama paragraph tersebut terdapat pada nomor ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(1)</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(2)</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(3)</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(4)</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Akuarium berbentuk balok berukuran panjang 48 cm lebar 35 cm dan tinggi 40 cm...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Akuarium berbentuk balok berukuran panjang 48 cm lebar 35 cm dan tinggi 40 cm. Setelah dikuras, ketinggian air dalam akuarium ada 8 cm. Air yang harus diisikan ke akuarium supaya terisi tigaperempat penuh ada ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">53.760 cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>3</sup></span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">50.400 cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>3</sup></span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">36.960 cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>3</sup></span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">35.960 cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>3</sup></span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Alun-alun suatu kota berbentuk persegi panjang. Panjang alun alun 120 meter ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Alun-alun suatu kota berbentuk persegi panjang. Panjang alun alun 120 meter dan lebarnya 30 meter lebih pendek dari panjangnya. Di salah satu sisi terdapat gapura selebar 6 meter. Di sekeliling alun alun terdapat tiang lampu yang berjarak 6 meter antar tiang dan 3 meter dari samping gapura. Seluruh tiang lampu ada ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">69 buah</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">68 buah</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">49 buah</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">48 buah</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Andin adalah salah satu siswa kelas 6 yang rajin. Dia selalu belajar tanpa ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Andin adalah salah satu siswa kelas 6 yang rajin. Dia selalu belajar tanpa harus disuruh orang tuanya. Apabila dia mengalami kesulitan, dia tidak enggan bertanya pada guru. Tekadnya sudah bulat, dia ingin menjadi bintang di kelasnya.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br>Makna simbol bintang pada cerita tersebut adalah ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Juara di kelasnya</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Paling baik hatinya</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Terbaik perilakunya</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Disukai teman kelasnya</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Berikut ini pasangan benda dan sifatnya yang tepat adalah ….Jawaban yang ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Berikut ini pasangan benda dan sifatnya yang tepat adalah ….<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"551\" height=\"189\" align=\"bottom\" alt=\"mc054-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc054-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br>Jawaban yang benar adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">A</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">B</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">C</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">D</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Daun suji memiliki banyak manfaat. Daun suji sering dimanfaatkan sebagai ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Daun suji memiliki banyak manfaat. Daun suji sering dimanfaatkan sebagai bahan pewarna makanan. Daun suji juga dapat mengobati sakit perut karena daun ini mengandung </span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><i>flavonid </i>dan <i>tanin</i> yang bersifat anti bakteri. Selain itu, daun suji juga dapat digunakan sebagai obat batuk dengan meminum perasan air sarinya <br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br>Ringkasan paragraf tersebut adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Daun suji memiliki manfaat sebagai bahan pewarna makanan dan obat batuk</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Manfaat daun suji adalah sebagai bahan pewarna makanan dan obat sakit perut</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Daun suji bermanfaat sebagai obat sakit perut dan batuk dengan meminum air sarinya</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Daun suji bermanfaat sebagai bahan pewarna makanan, obat sakit perut, dan obat batuk</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Di masa pandemi covid 19 ini, kita harus taat protokol kesehatan dan ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Di masa pandemi covid 19 ini, kita harus taat protokol kesehatan dan meningkatkan imunitas tubuh kita. Protokol kesehatan meliputi memakai masker, mencuci tangan memakai sabun dengan air mengalir, menjaga jarak, menjauhi kerumunan, membatasi mobilitas dan interaksi. Banyak minum air hangat, vitamin, dan makan makanan bergizi&nbsp; untuk meningkatkan imunitas tubuh kita<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Prediksi yang terjadi jika kita taat protocol kesehatan adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Imunitas tubuh akan menurun</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Daya tahan tubuh tetap terjaga</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kita pasti terhindar dari paparan covid 19</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Penyebaran virus covid 19 akan berkurang</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Di toko alat tulis, Ahmad mengambil 9 buku tulis dan 3 pensil. Harga setiap ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Di toko alat tulis, Ahmad mengambil 9 buku tulis dan 3 pensil. Harga setiap buku tulis Rp. 4.500,00 dan setiap pensil Rp. 2.300,00. Di kasir, Ahmad menyerahkan selembar uang limapuluhribuan untuk membayar belanjanya. Sisa uang belanja, dipakai untuk membeli dua penghapus tanpa sisa. Harga setiap penghapus ada ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.2.600,00</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.1.800,00</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.1.300,00</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.800,00</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Hasan menyambung tiga tongkat untuk membuat tiang bendera.&nbsp; Panjang tongkat&nbsp; ...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Hasan menyambung tiga tongkat untuk membuat tiang bendera.&nbsp; Panjang tongkat&nbsp; masing-masing&nbsp; 175 cm, 17,2 dm dan 1,77 m.&nbsp; Setiap penyambungan menghimpitkan ujung tongkat sepanjang&nbsp; 19 cm.&nbsp; Panjang tongkat sambungan yang terbentuk ada ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">448 cm</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">467 cm</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">486 cm</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">505 cm</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Hutan memiliki banyak manfaat bagi manusia. Di hutan tumbuh beraneka ragam ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Hutan memiliki banyak manfaat bagi manusia. Di hutan tumbuh beraneka ragam tumbuhan yang dapat mencegah banjir, erosi, dan tanah longsor. Banyak hewan hidup bebas di sana. Manusia dapat memanfaatkan hutan sebagai tempat wisata.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Pernyataan yang sesuai dengan paragraph tersebut adalah ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Hutan bermanfaat bagi semua makhluk hidup</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Beraneka ragam tumbuhan langka hidup di hutan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Hutan hanya dapat mencegah banjir, erosi, dan tanah longsor</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Hutan bermanfaat untuk menghasilkan kayu dari tumbuh-tumbuhan</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Kegiatan yang menunjukkan gaya dapat mengubah arah gerak benda adalah ….",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Ke<b>giatan yang menunjukkan gaya dapat mengubah arah gerak benda</b> adalah </span>….</span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<b><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">seorang anak sedang mengerem sepeda</span></span></b>"
+        },
+        {
+          "score": 0,
+          "text": "<b><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">seorang atlet sedang melempar bola peluru</span></span></b>"
+        },
+        {
+          "score": 0,
+          "text": "<b><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">dua orang anak sedang bermain tenis meja</span></span></b>"
+        },
+        {
+          "score": 0,
+          "text": "<b><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">tiga orang anak sedang memindahkan lemari</span></span></b>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Kesehatan hati perlu diperhatikan karena hati merupakan organ penting yang ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kesehatan hati perlu diperhatikan karena hati merupakan organ penting yang membantu proses pencernaan makanan. Salah satu cara untuk menjaga kesehatan hati adalah ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">mengurangi makanan yang berkolesterol tinggi</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">banyak mengkonsumsi makanan yang berserat tinggi</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">mengurangi makanan yang banyak berkadar gula tinggi</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">banyak mengkonsumsi makanan yang mengandung garam</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Kita harus waspada terhadap penyebaran virus covid 19. Setiap hari jumlah ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kita harus waspada terhadap penyebaran virus covid 19. Setiap hari jumlah korban terus meningkat. Kita harus taat </span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><i>protokol</i> kesehatan covid 19, agar penyebaran virus ini terputus. Marilah kita selalu memakai masker, mencuci tangan memakai sabun dengan air mengalir, menjaga jarak, menjauhi kerumunan, membatasi mobilitas dan interaksi. <br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Makna istilah </span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><i>protocol </i>dalam paragraph adalah .…</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">urutan</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">aturan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">istiadat</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pembawa acara</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Kita harus waspada terhadap penyebaran virus covid 19. Setiap hari jumlah ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kita harus waspada terhadap penyebaran virus covid 19. Setiap hari jumlah korban terus meningkat. Kita harus taat </span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><i>protokol</i> kesehatan covid 19, agar penyebaran virus ini terputus. Marilah kita selalu memakai masker, mencuci tangan memakai sabun dengan air mengalir, menjaga jarak, menjauhi kerumunan, membatasi mobilitas dan interaksi<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Jenis paragraph tersebut adalah …</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">narasi</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">persuasi</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">deskripsi</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">argumentasi</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Kita harus waspada terhadap penyebaran virus covid 19. Sinonim kata waspada ...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kita harus </span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><i>waspada</i> terhadap penyebaran virus covid 19. <br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Sinonim kata waspada dalam kalimat tersebut adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">peduli</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">bijak</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">ingat</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">siaga</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Kolam renang berbentuk balok berukuran panjang 25 meter lebar 12 meter dan ...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kolam renang berbentuk balok berukuran panjang 25 meter lebar 12 meter dan kedalaman 1,5 meter. Luas seluruh sisi permukaan dalam kolam renang ada ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">401 m</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">411 m</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">701 m</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">711 m</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Koperasi sekolah SD Maju menjual alat tulis. Harga peralatan tulis tersebut ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Koperasi sekolah SD Maju menjual alat tulis. Harga peralatan tulis tersebut bermacam-macam. Harga buku tulis Rp2.000,00, pensil Rp1.500,00, dan penggaris Rp1.000,00. Adapun harga rautan seharga buku tulis ditambah harga pensil. <br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Lengkapi tabel berikut berdasarkan ilustrasi tersebut.<br><img width=\"537\" height=\"82\" align=\"bottom\" alt=\"mc013-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc013-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Harga rautan adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.1.500,00</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.2.000,00</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.3.500,00</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.7.000,00</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Lihat diagram berikutJumlah siswa yang mengikuti musik sama dengan jumlah ...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Lihat diagram berikut<br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"258\" height=\"262\" align=\"bottom\" alt=\"mc039-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc039-1.jpg\" border=\"0\"><br><br>Jumlah siswa yang mengikuti musik sama dengan jumlah siswa yang mengikuti tari. Jika jumlah siswa yang mengikuti lukis dan musik 100 anak, selisih siswa yang mengikuti drumband dan tari adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">200 anak</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">152 anak</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">104 anak</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">100 anak</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Lihat gambar berikut.Luas bangun datar tersebut adalah …. cm2",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Lihat gambar berikut.<br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"345\" height=\"176\" align=\"bottom\" alt=\"mc032-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc032-1.jpg\" border=\"0\"><br><br>Luas bangun datar tersebut adalah …. cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">288</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">448</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">512</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">576</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Lihat soal berikut",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Lihat soal berikut <br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"570\" height=\"138\" align=\"bottom\" alt=\"mc031-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc031-1.jpg\" border=\"0\"></span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">3,0 km lebih jauh</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">2,5 km lebih jauh</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">2,0 km lebih jauh</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">1,0 km lebih jauh</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Lihat teks berikut.&nbsp;&nbsp;&nbsp;&nbsp; Si Rubah belum makan selama beberapa hari. Saat ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Lihat teks berikut.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; Si Rubah belum makan selama beberapa hari. Saat mencari mangsa, ia menemukan makanan. Makanan tersebut ditinggalkan penebang kayu di lubang sebuah pohon. Sebelum pulang ke rumah, penebang kayu itu lupa mengambil makanannya. <br>&nbsp;&nbsp;&nbsp;&nbsp; \"Akhirnya ada sesuatu untuk dimakan,\" pikir si Rubah<br>&nbsp;&nbsp;&nbsp;&nbsp; Ia mengecilkan perut masuk ke dalam lubang dan melahap semua makanan. Setelah selesai makan,&nbsp; si Rubah berusaha merayap keluar dari lubang. Namun, si Rubah tidak bisa keluar. Ia telah makan terlalu banyak sehingga perutnya membesar. Si Rubah menunggu di dalam lubang hingga lapar lagi.<br>Bagimana cara si Rubah keluar dari lubang pohon?<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Si Rubah keluar dari dalam lubang pohon dengan cara….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">berusaha untuk tidak makan selama beberapa hari</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">tidak melahap semua makanan yang ditemukan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">merayap dari lubang dengan mengecilkan diri</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">menunggu di dalam lubang hingga lapar lagi</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Lihat teks berikut.&nbsp;&nbsp;&nbsp;&nbsp; Si Rubah belum makan selama beberapa hari. Saat ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Lihat teks berikut.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; Si Rubah belum makan selama beberapa hari. Saat mencari mangsa, ia menemukan makanan. Makanan tersebut ditinggalkan penebang kayu di lubang sebuah pohon. Sebelum pulang ke rumah, penebang kayu itu lupa mengambil makanannya. <br>&nbsp;&nbsp;&nbsp;&nbsp; \"Akhirnya ada sesuatu untuk dimakan,\" pikir si Rubah<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; Ia mengecilkan perut masuk ke dalam lubang dan melahap semua makanan. Setelah selesai makan,&nbsp; si Rubah berusaha merayap keluar dari lubang. Namun, si Rubah tidak bisa keluar. Ia telah makan terlalu banyak sehingga perutnya membesar. Si Rubah menunggu di dalam lubang hingga lapar lagi<br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Mengapa si Rubah tidak bisa keluar dari pohon setelah makan?<br>Si Rubah tidak bisa keluar dari pohon setelah makan karena … .</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">menemukan makanan yang ditinggalkan penebang kayu</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">makan terlalu banyak sehingga perutnya membesar</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">tidak bisa merayap keluar dari pohon tersebut</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">menunggu di dalam lubang hingga lapar lagi</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Mengapa&nbsp; saat diare tubuh akan terasa lemas?Saat diare tubuh akan terasa ...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Mengapa&nbsp; saat diare tubuh akan terasa lemas?<br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Saat diare tubuh akan terasa lemas karena….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">mengeluarkan cairan dan elektrolit lebih banyak dari biasanya</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">makanan yang tercemar bakteri mengganggu kesehatan tubuh</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">rumah yang tidak sehat&nbsp; adalah faktor utama penyebab diare</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">cairan dalam tubuh digantikan oleh larutan yang disebut oralit</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Pada musim kemarau, tumbuhan jati meranggas. Tumbuhan lain yang beradaptasi ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Pada musim kemarau, tumbuhan jati meranggas. Tumbuhan lain yang beradaptasi dengan cara tersebut antara lain….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">randu, rambutan, albasiah, ulin</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">mahoni, kedondong, randu, sengon</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">albasiah, lamtoro, mangga, ketapang</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">petai cina, keladi, kedondong, durian</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Pasangan yang tepat antara hewan dan cara perkembangbiakannya adalah ….Jawaba...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Pasangan yang tepat antara hewan dan cara perkembangbiakannya adalah ….<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"466\" height=\"179\" align=\"bottom\" alt=\"mc052-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc052-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br>Jawaban yang benar adalah</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">A</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">B</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">C</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">D</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": true,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan ciri fisik pubertas berikut.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mimpi basah2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tumbuh ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan ciri fisik pubertas berikut.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mimpi basah<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tumbuh jerawat<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suara menjadi berat<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mengalami menstruasi<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br>Ciri pubertas anak laki-laki ditunjukkan oleh nomor</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">2 dan 4</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">3 dan 4</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">1 dan 3</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">1 dan 4</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar berikut Alat pernapasan yang ditunjukkan pada nomor 4 adalah….",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar berikut <br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"237\" height=\"208\" align=\"bottom\" alt=\"mc047-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc047-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Alat pernapasan yang ditunjukkan pada nomor 4 adalah….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rongga hidung</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">alveolus</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">faring</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">laring</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar berikut Keliling bagian lingkaran tersebut adalah ….",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar berikut <br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"249\" height=\"223\" align=\"bottom\" alt=\"mc035-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc035-1.jpg\" border=\"0\"><br></span>Keliling bagian lingkaran tersebut adalah ….</span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">94 cm</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">88 cm</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">80 cm</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">66 cm</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar berikut.Kegiatan yang memanfaatkan sumber energi ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar berikut.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"571\" height=\"173\" align=\"bottom\" alt=\"mc058-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc058-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kegiatan yang memanfaatkan sumber energi alternatif&nbsp; gerakan angin ditunjukkan oleh gambar….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(1)</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(2)</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(3)</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">(4)</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar berikut.Sifat magnet yang tepat sesuai dengan gambar adalah",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar berikut.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"298\" height=\"209\" align=\"bottom\" alt=\"mc059-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc059-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Sifat magnet yang tepat sesuai dengan gambar adalah</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">memiliki medan magnet</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">kutub yang senama tarik menarik</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">kutub yang tidak senama tarik&nbsp; menarik</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">jika digantungkan&nbsp; bebas mengarah utara selatan</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar berikutCara menghasilkan bunyi rendah pada alat musik di ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar berikut<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"223\" height=\"217\" align=\"bottom\" alt=\"mc060-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc060-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Cara menghasilkan bunyi rendah pada alat musik di atas adalah….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">senar dikencangkan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">ujung senar dikencangkan</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">dipetik dalam keadaan senar kendur</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pengait diputar kekiri supaya senar kendur</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar berikutHewan yang mengalami daur hidup seperti pada gambar ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar berikut<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"386\" height=\"183\" align=\"bottom\" alt=\"mc045-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc045-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Hewan yang mengalami daur hidup seperti pada gambar adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">kecoa, capung, dan tungau</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">belalang, ngengat, dan laron</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">belalang, kumbang, dan semut</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">capung, tungau, dan kunang-kunang</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar berikutJawaban yang benar adalah …..",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar berikut<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"473\" height=\"367\" align=\"bottom\" alt=\"mc057-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc057-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br>Jawaban yang benar adalah …..</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">A</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">B</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">C</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">D</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar berikutLuas lingkaran pada gambar adalah ….",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar berikut<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"251\" height=\"244\" align=\"bottom\" alt=\"mc034-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc034-1.jpg\" border=\"0\"><br>Luas lingkaran pada gambar adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">1.232 cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">2.464 cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">4.312 cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">9.856 cm</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>2</sup></span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar peraga peredaran darah berikutJika bagian nomor 2&nbsp; ditekan,...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar peraga peredaran darah berikut<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"499\" height=\"268\" align=\"bottom\" alt=\"mc050-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc050-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Jika bagian nomor 2&nbsp; ditekan, maka aliran darah akan mengalir menuju ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">nomor 1 (serambi kiri) kemudian mengalir menuju nomor 6 (paru-paru)</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">nomor 5 (seluruh tubuh) kemudian mengalir menuju nomor 4 (bilik kanan)</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">nomor 1 (serambi kiri) kemudian mengalir menuju nomor 3 (serambi kanan)</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">nomor 5 (seluruh tubuh) kemudian mengalir menuju nomor 3 (serambi kanan)</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan gambar. Jawaban yang benar adalah ….",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan gambar. <br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"371\" height=\"183\" align=\"bottom\" alt=\"mc027-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc027-1.jpg\" border=\"0\"><br>Jawaban yang benar adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">A</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">B</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">C</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">D</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan Rasya menyimpan minuman di dalam lemari pendingin. Karena lupa, ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan Rasya menyimpan minuman di dalam lemari pendingin. Karena lupa, minuman menjadi beku dengan suhu -7</span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><sup>0</sup>C saat diambil. Rasya mendiamkan sebentar sehingga suhu minuman naik 11<sup>0</sup>C. Karena masih terlalu dingin, rasya merendam minuman dalam air hangat sekitar 21 menit. Setiap 9 menit, suhu minuman naik 6<sup>0</sup>C. Selisih kenaikan suhu awal dan akhir minuman ada ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">25</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-size: 16px;\">18</span><br>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-size: 16px;\">16</span><br>"
+        },
+        { "score": 0, "text": "<span style=\"font-size: 16px;\">11</span><br>" }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan Seekor singa tengah tertidur lelap di bawah pohon. Tiba-tiba dari ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan Seekor singa tengah tertidur lelap di bawah pohon. Tiba-tiba dari kejauhan terlihat tikus berlari amat kencang. Sepertinya ia sedang terburu-buru. Tikus itu pun menabrak wajah singa. Singa yang sedang tidur, sontak terbangun. Ia marah kepada tikus yang sudah mengganggu tidur siangnya. Tikus pun tak bisa mengelak. Ia tertangkap oleh singa.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; \"Kau telah mengganggu tidur siangku. Aku akan memakanmu agar kau tidak mengganggu tidur siangku lagi,\" ucap singa garang.<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; Mendengar ucapan singa, tikus sangat ketakutan<br></span></span><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; \"Tolong singa, jangan makan aku. Lepaskan aku. Jika kamu melepaskan aku, aku berjanji akan membantumu saat engkau membutuhkan bantuan,\" bujuk tikus.<br>&nbsp;&nbsp;&nbsp;&nbsp; Seketika singa tertawa terbahak-bahak.<br>&nbsp;&nbsp;&nbsp;&nbsp; \"Hahahaha! Binatang kecil sepertimu akan menolongku? Kamu pasti mengigau!\"<br>Namun karena singa masih mengantuk dan ingin melanjutkan tidurnya, ia pun melepaskan tikus. Tikus berlari sangat girang. Tak lupa ia berterima kasih karena tak jadi dimangsa oleh singa.<br>&nbsp;&nbsp;&nbsp;&nbsp; Suatu hari, seorang pemburu masuk ke dalam hutan. Ia memasang perangkap untuk binatang buruannya. Bukannya rusa yang didapat, tapi malah singa yang tertangkap. Tubuh singa pun terikat jaring yang dipasang pemburu. Tikus mendengar kabar tentang tertangkapnya singa.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; \"Aku harus menolong singa. Aku sudah berjanji akan menolongnya,\" gumam tikus. Ia langsung berlari mencari singa. Benar saja, singa terlihat tak berdaya terikat jaring <br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br>Latar waktu cerita tersebut adalah …</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pagi</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">sore</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">siang</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">malam</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan skema peredaran darah berikut.Bagan yang dilalui oleh darah pada ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan skema peredaran darah berikut.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"251\" height=\"254\" align=\"bottom\" alt=\"mc049-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc049-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Bagan yang dilalui oleh darah pada sistem peredaran darah besar kaya oksigen adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">6 - 7 - 1</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">3 - 5 - 6</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">2 - 8 - 9</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">9 - 10 - 4</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan skema peredaran darah berikut.Proses yang terjadi pada organ ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan skema peredaran darah berikut.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"229\" height=\"269\" align=\"bottom\" alt=\"mc048-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc048-1.jpg\" border=\"0\"><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Proses yang terjadi pada organ pencernaan yang bertanda x adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pengubahan lemak menjadi asam lemak</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pengubahan protein menjadi pepton</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pengubahan zat tepung menjadi zat gula</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pengasaman makanan</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan soal berikut Jawaban yang benar adalah ….",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan soal berikut <br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"228\" height=\"239\" align=\"bottom\" alt=\"mc024-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc024-1.jpg\" border=\"0\"><br>Jawaban yang benar adalah ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">A</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">B</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">C</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">D</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan soal berikutJawaban yang benar adalah ….",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan soal berikut<br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"540\" height=\"289\" align=\"bottom\" alt=\"mc026-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc026-1.jpg\" border=\"0\"><br><br>Jawaban yang benar adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:14pt\">A</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:14pt\">B</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:14pt\">C</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:14pt\">D</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan soal berikutJawaban yang benar adalah …..",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan soal berikut<br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"226\" height=\"251\" align=\"bottom\" alt=\"mc025-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc025-1.jpg\" border=\"0\"><br>Jawaban yang benar adalah …..</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">A</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">B</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">C</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">D</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan syair berikut.Dengarlah wahai anandaRajinlah belajar sepanjang ...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><b>Perhatikan syair berikut.</b></span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><br></span></span><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Dengarlah wahai ananda<br>Rajinlah belajar sepanjang masa<br>Ilmu tiada pernah habis dieja<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Sebagai bekal meraih asa<br><br>Makna </span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><b><i>asa</i></b> pada syair tersebut adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:14pt\">cita-cita</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:14pt\">harapan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:14pt\">keinginan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:14pt\">masa depan</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan table berikutKegiatan manusia yang dapat merusak lingkungan ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan table berikut<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"416\" height=\"197\" align=\"bottom\" alt=\"mc044-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc044-1.jpg\" border=\"0\"><br><br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Kegiatan manusia yang dapat merusak lingkungan ditunjukkan nomor ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">2, 3 dan 5</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">2, 3, dan 4</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">1, 3, dan 5</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">1, 3, dan 4</span></span>"
+        }
+      ],
+      "correctAnswer": [3],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perhatikan teks bacaan berikut. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tubuh kita rentan&nbsp; terkena penyakit ...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perhatikan teks bacaan berikut. <br></span></span><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tubuh kita rentan&nbsp; terkena penyakit diare dari makanan.&nbsp; Bisa terjadi&nbsp; jika makanan atau minuman yang kita makan tercemar bakteri. Saat diare, tubuh&nbsp; mengeluarkan cairan dan elektrolit lebih banyak dari biasanya. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Diare membuat tubuh terasa lemas akibat kekurangan cairan. Minum air putih dapat menggantikan cairan yang hilang. Namun, tidak dapat menggantikan elektrolit.&nbsp; Agar segera sembuh minum oralit. Oralit bisa dibuat sendiri dengan campuran air, garam, dan gula.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Bagaimana cara mengobati diare sesuai paragraf tersebut?<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Cara mengobati diare sesuai paragraf adalah</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">melakukan pola hidup sehat</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">mencegah tubuh kekurangan cairan</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">minum oralit yaitu air, garam, dan gula</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">menjauhkan bakteri yang mencemari makanan</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Perpindahan panas yang terjadi pada peristiwa pada gambar di bawah ini ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Perpindahan panas yang terjadi pada peristiwa pada gambar di bawah ini adalah&nbsp; </span>….<span style=\"font-size:12pt\"><br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><img width=\"356\" height=\"220\" align=\"bottom\" alt=\"mc055-1.jpg\" src=\"@@PLUGINFILE@@/ppg__examview__try_out_SD__00001_res__mc055-1.jpg\" border=\"0\"></span></span></div><br>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">induksi</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">radiasi</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">konduksi</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">konveksi</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Petani di daerah Sulawesi banyak memelihara kupu-kupu penghasil sutera (Bomby...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Petani di daerah Sulawesi banyak memelihara kupu-kupu penghasil sutera (<i>Bombyxmori</i>).Tahapan daur hidup kupu- kupu yang dapat dimanfaatkan untuk menghasilkan benang sutera adalah </span>….</span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pupa</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">nimfa</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">imago</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">dewasa</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Pohon sirih merambat pada pohon kelor. Kedua pohon tersebut dapat tumbuh ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Pohon sirih merambat pada pohon kelor. Kedua pohon tersebut dapat tumbuh lebat. Hal ini menunjukan bahwa antara pohon sirih dengan pohon kelor terjadi hubungan&nbsp; </span>….</span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">simbiosis komensalisme, pohon sirih diuntungkan karena mendapat tempat untuk merambat, sedangkan pohon kelor tidak diuntungkan dan tidak dirugikan.</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Simbiosis mutualisme, pohon sirih diuntungkan karena mendapatkan sinar matahari, dan pohon kelor mendapatkan hasil fotosintesis dari pohon sirih.</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">simbiosis parasitisme, pohon sirih diuntungkan karena menyerap zat hara dari pohon kelor, sedangkan pohon kelor dirugikan karena zat haranya terserap oleh pohon sirih</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">simbiosis parasitisme, pohon sirih diuntungkan karena mendapat sinar matahari, sedangkan pohon kelor dirugikan karena hasil fotosintesisnya diserap oleh pohon sirih.</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Rata-rata ulangan harian IPA 26 anak adalah 75. Setelah Hanif dan Khayla ikut...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rata-rata ulangan harian IPA 26 anak adalah 75. Setelah Hanif dan Khayla ikut ulangan susulan, rata-rata menjadi 76. Nilai Hanif 14 lebih&nbsp; tinggi dari nilai Khayla. Nilai mereka adalah </span>….</span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">96 dan 84</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">96 dan 82</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">91 dan 77</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">91 dan 78</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Seekor singa tengah tertidur lelap di bawah pohon. Tiba-tiba dari kejauhan ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Seekor singa tengah tertidur lelap di bawah pohon. Tiba-tiba dari kejauhan terlihat tikus berlari amat kencang. Sepertinya ia sedang terburu-buru. Tikus itu pun menabrak wajah singa. Singa yang sedang tidur, sontak terbangun. Ia marah kepada tikus yang sudah mengganggu tidur siangnya. Tikus pun tak bisa mengelak. Ia tertangkap oleh singa.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; \"Kau telah mengganggu tidur siangku. Aku akan memakanmu agar kau tidak mengganggu tidur siangku lagi,\" ucap singa garang.<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; Mendengar ucapan singa, tikus sangat ketakutan<br></span></span><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; \"Tolong singa, jangan makan aku. Lepaskan aku. Jika kamu melepaskan aku, aku berjanji akan membantumu saat engkau membutuhkan bantuan,\" bujuk tikus.<br>&nbsp;&nbsp;&nbsp;&nbsp; Seketika singa tertawa terbahak-bahak.<br>&nbsp;&nbsp;&nbsp;&nbsp; \"Hahahaha! Binatang kecil sepertimu akan menolongku? Kamu pasti mengigau!\"<br>Namun karena singa masih mengantuk dan ingin melanjutkan tidurnya, ia pun melepaskan tikus. Tikus berlari sangat girang. Tak lupa ia berterima kasih karena tak jadi dimangsa oleh singa.<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; Suatu hari, seorang pemburu masuk ke dalam hutan. Ia memasang perangkap untuk binatang buruannya. Bukannya rusa yang didapat, tapi malah singa yang tertangkap. Tubuh singa pun terikat jaring yang dipasang pemburu. Tikus mendengar kabar tentang tertangkapnya singa.<br>&nbsp;&nbsp;&nbsp;&nbsp; \"Aku harus menolong singa. Aku sudah berjanji akan menolongnya,\" gumam tikus. Ia langsung berlari mencari singa. Benar saja, singa terlihat tak berdaya terikat jaring.<br><br>Tokoh utama cerita tersebut adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">pemburu</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">singa</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">tikus</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">rusa</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Seekor singa tengah tertidur lelap di bawah pohon. Tiba-tiba dari kejauhan ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Seekor singa tengah tertidur lelap di bawah pohon. Tiba-tiba dari kejauhan terlihat tikus berlari amat kencang. Sepertinya ia sedang terburu-buru. Tikus itu pun menabrak wajah singa. Singa yang sedang tidur, sontak terbangun. Ia marah kepada tikus yang sudah mengganggu tidur siangnya. Tikus pun tak bisa mengelak. Ia tertangkap oleh singa.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; \"Kau telah mengganggu tidur siangku. Aku akan memakanmu agar kau tidak mengganggu tidur siangku lagi,\" ucap singa garang.<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; Mendengar ucapan singa, tikus sangat ketakutan<br></span></span><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; \"Tolong singa, jangan makan aku. Lepaskan aku. Jika kamu melepaskan aku, aku berjanji akan membantumu saat engkau membutuhkan bantuan,\" bujuk tikus.<br>&nbsp;&nbsp;&nbsp;&nbsp; Seketika singa tertawa terbahak-bahak.<br>&nbsp;&nbsp;&nbsp;&nbsp; \"Hahahaha! Binatang kecil sepertimu akan menolongku? Kamu pasti mengigau!\"<br>Namun karena singa masih mengantuk dan ingin melanjutkan tidurnya, ia pun melepaskan tikus. Tikus berlari sangat girang. Tak lupa ia berterima kasih karena tak jadi dimangsa oleh singa.<br>&nbsp;&nbsp;&nbsp;&nbsp; Suatu hari, seorang pemburu masuk ke dalam hutan. Ia memasang perangkap untuk binatang buruannya. Bukannya rusa yang didapat, tapi malah singa yang tertangkap. Tubuh singa pun terikat jaring yang dipasang pemburu. Tikus mendengar kabar tentang tertangkapnya singa.<br></span></span></div><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">&nbsp;&nbsp;&nbsp;&nbsp; \"Aku harus menolong singa. Aku sudah berjanji akan menolongnya,\" gumam tikus. Ia langsung berlari mencari singa. Benar saja, singa terlihat tak berdaya terikat jaring<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br>Watak tikus dalam cerita tersebut adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Suka berlari</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Menepati janji</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Suka menolong</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Berterima kasih</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Seluruh siswa harus bersemangat dalam belajar. Apapun tugas dari guru&nbsp; ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Seluruh siswa harus bersemangat dalam belajar. Apapun tugas dari guru&nbsp; dikerjakan dengan penuh tanggung jawab. Mereka tekun mempelajari materi yang telah diberikan guru. Tekad mereka satu, lulus dengan nilai memuaskan<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Ide pokok paragraph tersebut adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Tekun dalam belajar</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Tanggung jawab siswa</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Semangat siswa dalam belajar</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Tugas-tugas yang diberikan guru</span></span>"
+        }
+      ],
+      "correctAnswer": [2],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Setiap hari jumlah korban terus meningkat.Antonim kata meningkat pada kalimat...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Setiap hari jumlah korban terus </span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><i>meningkat.</i><br></span></span><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Antonim kata meningkat pada kalimat tersebut adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">menipis</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">menurun</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">menyebar</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">menyempit</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Suatu taman berbentuk seperempat lingkaran dengan jari jari 42 meter. Di ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Suatu taman berbentuk seperempat lingkaran dengan jari jari 42 meter. Di sekeliling taman terdapat tiang lampu yang berjarak 6 meter Setiap tiang lampu terdapat 3 lampu. Seluruh lampu di sekeliling taman ada ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">33 buah</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">75 buah</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">132 buah</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">174 buah</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Suatu toko alat tulis menjual pewarna, buku tulis, dan penghapus dengan ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Suatu toko alat tulis menjual pewarna, buku tulis, dan penghapus dengan perbandingan harga 11 : 4 : 2. Nufa membeli 1 pewarna, 3 buku tulis, dan 1 penghapus seharga RP.20.000,00 di toko tersebut. Karena adiknya membutuhkan, Nufa membeli lagi di toko tersebut 2 buku tulis dan 1 penghapus. Saat membayar di kasir, Nufa menyerahkan uang Rp.10.000,00. Nufa mendapatkan pengembalian sebesar ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.2.000,00</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.1.800,00</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.1.600,00</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Rp.1.500,00</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Tanggal 29 Maret 2021, Rita bertemu Salsa dan Tia di rumah nenek. Rita ...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Tanggal 29 Maret 2021, Rita bertemu Salsa dan Tia di rumah nenek. Rita berkunjung setiap 6 hari, Salsa setiap 9 hari, dan Tia setiap 8 hari. Mereka akan bersama berkunjung ke rumah nenek berikutnya pada tanggal ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">10 Juni 2021</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">9 Juni 2021</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">30 Mei 2021</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">9 Mei 2021</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Teks 1Asian Games adalah pesta olahraga negara-negara di Asia. Pesta olahraga...",
+      "questiontext": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><b>Teks 1</b></span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><br></span></span><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Asian Games adalah pesta olahraga negara-negara di Asia. Pesta olahraga ini diadakan empat tahun sekali. Asian Games pertama kali diselenggarakan pada tahun 1951 di India.<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\"><br></span></span><span style=\"font-size:12pt\"><span style=\"font-family:'Arial'\"><b>Teks 2<br></b></span></span><div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Asian Para Games merupakan kompetisi olahraga untuk atlet berkebutuhan khusus. Pesertanya berasal dari negara-negara di Asia. Kompetisi olahraga ini diadakan setiap empat tahun. Asian Para Games diadakan sejak tahun 2010 di China.<br></span></span></div><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Persamaan isi kedua teks tersebut adalah ….</span></span>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">nama pesta olahraga</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">jangka waktu pelaksanaan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">tahun pertama penyelenggaraan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">tempat penyelenggaraan kompetisi</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Truk dengan berat 4 ton 750 kg mengangkut muatan gula 34 karung dan tepung 72...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Truk dengan berat 4 ton 750 kg mengangkut muatan gula 34 karung dan tepung 72 karung. Setiap karung isi gula beratnya 50 kg. Saat melewati jembatan timbang, berat truk beserta muatan ada 8 ton 250 kg. Berat setiap karung isi tepung ada ….</span></span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">20 kg</span></span>"
+        },
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">25 kg</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">35 kg</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">40 kg</span></span>"
+        }
+      ],
+      "correctAnswer": [1],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    },
+    {
+      "type": "multichoice",
+      "name": "Tupai sering terlihat di atas pepohonan. Ia bisa memanjat dan melompat dengan...",
+      "questiontext": "<div style=\"text-align:justify\"><span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Tupai sering terlihat di atas pepohonan. Ia bisa memanjat dan melompat dengan gesit tanpa terjatuh. Hal tersebut karena tupai memiliki ciri khusus yaitu </span>….</span></div>",
+      "format": "html",
+      "penalty": 0.3333333,
+      "hidden": 0,
+      "generalfeedback": "",
+      "defaultgrade": 1,
+      "tags": [],
+      "answers": [
+        {
+          "score": 100,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Memiliki ekor panjang dan berjumbai untuk menjaga keseimbangan</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Mengeluarkan saraf sensori yang bisa memperkirakan letak benda</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Memiliki bantalan perekat di telapak kaki untuk merayap di pohon</span></span>"
+        },
+        {
+          "score": 0,
+          "text": "<span style=\"font-family:'Arial'\"><span style=\"font-size:12pt\">Memiliki kuku yang tajam untuk mencengkeram mangsa</span></span>"
+        }
+      ],
+      "correctAnswer": [0],
+      "single": true,
+      "shuffleanswers": false,
+      "correctfeedback": "",
+      "partiallycorrectfeedback": "",
+      "incorrectfeedback": "",
+      "answernumbering": "abc"
+    }
+  ]
+}
