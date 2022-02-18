@@ -1,7 +1,18 @@
 import { GiOpenBook } from 'react-icons/gi';
 import { useNavigate } from 'react-router-dom';
+import { toast, ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import { useEffect } from 'react';
 
-function Dashboard() {
+function Dashboard({isLogged}) {
+
+  useEffect(() => {
+    if(isLogged === false){
+      alert("Login Dulu")
+    }
+  }, [])
+  
+  
   // const [data, setdata] = useState(produk);
  let navigate= useNavigate();
   return (
@@ -13,6 +24,7 @@ function Dashboard() {
   <h3>Pelajaran</h3>
   <GiOpenBook className='text-4xl mt-2 cursor-pointer' onClick={()=>navigate('/tes')}  />
   </div>
+  <ToastContainer/>
   </div>)
 }
 

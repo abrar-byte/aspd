@@ -1,8 +1,22 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import { useEffect } from 'react';
+import { toast, ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
-function Login() {
+function Login({isLogged,setIsLogged}) {
  let navigate= useNavigate();
+
+//  useEffect(() => {
+//   if (isLogged === true){
+//     navigate('/dashboard');
+  
+  
+//    }
+//  }, [])
+ 
+
+ 
 
  const enter=(e)=>{
   e.preventDefault();
@@ -10,13 +24,15 @@ function Login() {
     e.target.username.value === "usamah" &&
     e.target.password.value === "abc123"
   ) {
-    
+    setIsLogged(localStorage.token = JSON.stringify(true))
     navigate('/dashboard');
-    
   } else {
-    alert("incorrect password");
+
+    toast.error("ada kesalahan di username / password");
   }
- }
+}
+console.log(isLogged);
+
   return <div>
     <div className="min-h-full flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
   <div className="max-w-md w-full space-y-8">
@@ -59,6 +75,7 @@ function Login() {
           Sign in
         </button>
       </div>
+      <ToastContainer/>
     </form>
   </div>
 </div>

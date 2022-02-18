@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { BrowserRouter as Router, Link, Route, Routes } from "react-router-dom";
 import Login from "./components/Login";
 import About from "./pages/About";
@@ -6,8 +6,25 @@ import Dashboard from "./dashboard";
 import ErrorPage from "./pages/ErrorPage";
 import Home from "./pages/Home";
 import Tes from "./dashboard/Tes";
+import PrivateRoute from "./components/PrivateRoute";
+import Logout from './components/Logout';
 
 function App() {
+  const [isLogged, setIsLogged] = useState(() => {
+    // getting stored value
+    const saved = localStorage.getItem("token");
+    const initialValue = JSON.parse(saved);
+    return initialValue || false;
+  });
+
+  // useEffect(() => {
+  //   setIsLogged()
+    
+  // }, [isLogged])
+  
+  
+
+
   return (
     <Router>
       <nav className="bg-gray-800 sticky top-0">
@@ -57,8 +74,8 @@ function App() {
             </div>
             <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
               <div className="ml-3 relative">
-                <div>
-                  <button
+                <div className="flex space-x-4">
+                 {isLogged === false && <button
                     type="button"
                     className="bg-gray-800 flex text-sm rounded-full focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
                     id="user-menu-button"
@@ -71,7 +88,21 @@ function App() {
                     >
                       Login
                     </Link>
-                  </button>
+                  </button>}
+                  {isLogged && <button
+                    type="button"
+                    className="bg-gray-800 flex text-sm rounded-full focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
+                    id="user-menu-button"
+                    aria-expanded="false"
+                    aria-haspopup="true"
+                  >
+                    <Link
+                      to="/logout"
+                      className="bg-gray-900 text-white px-3 py-2 rounded-md text-sm font-medium"
+                    >
+                      Logout
+                    </Link>
+                  </button>}
                 </div>
               </div>
             </div>
@@ -81,10 +112,15 @@ function App() {
      
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/about" element={<About />} />
+        
+        <Route element={<PrivateRoute isLogged={isLogged} />}>
+        <Route path="/dashboard" element={<Dashboard isLogged={isLogged} />} />
         <Route path="/tes" element={<Tes />} />
-        <Route path="/login" element={<Login />} />
+        <Route path="/logout" element={<Logout setIsLogged={setIsLogged} />} />
+
+        </Route>
+        <Route path="/login" element={<Login isLogged={isLogged} setIsLogged={setIsLogged} />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
     </Router>
