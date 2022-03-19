@@ -3,17 +3,14 @@ import { useNavigate } from 'react-router-dom';
 import { useEffect } from 'react';
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { useDispatch, useSelector } from 'react-redux';
+import { SAVE_LOGIN } from '../store/type';
 
-function Login({isLogged,setIsLogged}) {
+function Login() {
  let navigate= useNavigate();
+//  const isLogin = useSelector((state) => state.isLogin);
+ const dispatch=useDispatch();
 
-//  useEffect(() => {
-//   if (isLogged === true){
-//     navigate('/dashboard');
-  
-  
-//    }
-//  }, [])
  
 
  
@@ -24,14 +21,13 @@ function Login({isLogged,setIsLogged}) {
     e.target.username.value === "usamah" &&
     e.target.password.value === "abc123"
   ) {
-    setIsLogged(localStorage.token = JSON.stringify(true))
+    dispatch({type:SAVE_LOGIN})
     navigate('/dashboard');
   } else {
 
     toast.error("ada kesalahan di username / password");
   }
 }
-console.log(isLogged);
 
   return <div>
     <div className="min-h-full flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
